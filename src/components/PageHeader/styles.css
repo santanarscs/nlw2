@@ -54,3 +54,6 @@
     align-items: flex-start;
   }
 }
+.page-header .header-content strong {
+  max-width: 350px;
+}
